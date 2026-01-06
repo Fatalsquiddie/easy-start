@@ -15,11 +15,11 @@ local function insert_bonus_items(player)
 
   -- insert bonus items into player's inventory
   character.insert { name = "pamk3-pamk3", count = 1 }
-  character.insert { name = "personal-roboport-mk2-equipment", count = 1 }
-  character.insert { name = "fission-reactor-equipment", count = 1 }
-  character.insert { name = "energy-shield-mk2-equipment", count = 1 }
+  character.insert { name = "personal-roboport-mk2-equipment", count = 2 }
+  character.insert { name = "fission-reactor-equipment", count = 4 }
+  character.insert { name = "energy-shield-mk2-equipment", count = 2 }
   character.insert { name = "exoskeleton-equipment", count = 2 }
-  character.insert { name = "personal-laser-defense-equipment", count = 1 }
+  character.insert { name = "personal-laser-defense-equipment", count = 4 }
   character.insert { name = "construction-robot", count = 50 }
   character.insert { name = "solar-panel-equipment", count = 50 }
 
