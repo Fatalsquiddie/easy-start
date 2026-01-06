@@ -1,0 +1,17 @@
+V1.0 
+Basic code implementation
+
+v1.0.1
+Thumbnail update
+
+V1.0.2
+Thumbnail update/code fix
+
+V1.0.3
+Code fix *space age items used in base game*
+
+V1.0.4
+More item fixes *now works base game with no DLC*
+
+v1.0.5
+Increased some items to fill Power Armor Mk3
